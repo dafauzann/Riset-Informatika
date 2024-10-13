@@ -3,6 +3,14 @@ Nama  : Dafauzan Bilal Syaifulloh
 NPM   : 21081010069
 Kelas : Riset Informatika Co81
 
+## Jurnal Riset
+Review Jurnal acuan Skripsi
+
+| No | Judul                                              | Review          |
+|----|----------------------------------------------------|-------------------|
+| 1  | []()                | []() |
+| 2  | []()  | []()    |
+
 ## Penelitian murni dan Penelitian terapan
 
 Perbedaan Penelitian dan Penelitian Terapan:
