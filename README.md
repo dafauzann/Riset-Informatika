@@ -7,7 +7,7 @@ Kelas : Riset Informatika Co81
 Tugas Riset Kecil
 | No | Judul                                              |
 |----|----------------------------------------------------|
-| 1  | [prediksi harga saham PT. Industri Jamu dan Farmasi Sidomuncul menggunakan model hybrid arima - lstm ](https://www.canva.com/design/DAGXZtjBaOE/UhRmTJrRq7C9mzv0xsCg1w/edit?utm_content=DAGXZtjBaOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)             |
+| 1  | [Prediksi Harga Saham PT. Industri Jamu dan Farmasi Sidomuncul Menggunakan Model Hybrid ARIMA - LSTM ](https://www.canva.com/design/DAGXZtjBaOE/UhRmTJrRq7C9mzv0xsCg1w/edit?utm_content=DAGXZtjBaOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)             |
 
 ## Jurnal Riset
 Review Jurnal acuan Skripsi
@@ -17,6 +17,7 @@ Review Jurnal acuan Skripsi
 | 1  | [Komparasi Algoritma C4.5, Naïve BayesDan Neural NetworkUntuk Klasifikasi Tanah](https://ejournal.bsi.ac.id/ejurnal/index.php/ji/article/view/1002/pdf)                | [REVIEW](https://docs.google.com/document/d/1ZUaCx5jq4nZahIRmKF6b5C9LCRBW3sxLBTZfEQT6gL4/edit?usp=sharing) |
 | 2  | [WEBSITE E-COMMERCE MENGGUNAKAN MODEL VIEW CONTROLLER( MVC ) DENGAN FRAMEWORK CODEIGNITER Studi Kasus : Toko Miniatur](https://ojs.amikom.ac.id/index.php/dasi/article/view/225/210)  | [REVIEW](https://docs.google.com/document/d/1ztK7Wa93OUKeI0I35jT2Li0Qbq7rfaIrHP7tUMVEQPk/edit?usp=sharing)    |
 | 3  | [Real-Time Face Recognition Civil Servant Presence System Using DNN Algorithm](https://jurnal.ugm.ac.id/ijccs/article/view/77026)  | [REVIEW](https://docs.google.com/document/d/1RMUS3vNSaqSSOo47JGIlKFsvivweZy8KoWAcSxycv-0/edit?usp=sharing)    |
+| 4  | [Time Series Forecasting using LSTM and ARIMA](https://jurnal.ugm.ac.id/ijccs/article/view/77026)  | [REVIEW](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=1&Code=IJACSA&SerialNo=33)    |
 
 ## Penelitian murni dan Penelitian terapan
 
