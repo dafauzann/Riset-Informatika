@@ -1,7 +1,7 @@
 # Riset-Informatika
-Nama  : Dafauzan Bilal Syaifulloh
+Nama  : Dafauzan Bilal Syaifulloh;
 NPM   : 21081010069
-Kelas : Riset Informatika Co81
+Kelas : Riset Informatika C081
 
 # Riset Kecil
 Tugas Riset Kecil
