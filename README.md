@@ -3,6 +3,12 @@ Nama  : Dafauzan Bilal Syaifulloh
 NPM   : 21081010069
 Kelas : Riset Informatika Co81
 
+# Riset Kecil
+Tugas Riset Kecil
+| No | Judul                                              |
+|----|----------------------------------------------------|
+| 1  | [prediksi harga saham PT. Industri Jamu dan Farmasi Sidomuncul menggunakan model hybrid arima - lstm ](https://www.canva.com/design/DAGXZtjBaOE/UhRmTJrRq7C9mzv0xsCg1w/edit?utm_content=DAGXZtjBaOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)             |
+
 ## Jurnal Riset
 Review Jurnal acuan Skripsi
 
